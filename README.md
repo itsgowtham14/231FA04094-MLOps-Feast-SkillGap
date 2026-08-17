@@ -4,7 +4,7 @@
 
 **Name:** Gowtham Challapalli  
 **Register Number:** 231FA04094  
-**Section:** [Enter Section]
+**Section:** 15
 
 ## Problem Statement
 
