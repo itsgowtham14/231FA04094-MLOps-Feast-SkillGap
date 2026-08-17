@@ -1,0 +1,10 @@
+
+project: student_employability
+
+registry: C:\Users\Gowtham\student_feast_project\data\registry.db
+
+provider: local
+
+online_store:
+    type: sqlite
+    path: C:\Users\Gowtham\student_feast_project\data\online_store.db
